@@ -1,0 +1,11 @@
+1. In order to run this program it is necesarry to pip3 (python 3) install the following:
+ 	pip3 install sqlite3
+ 	pip3 install beautifulsoup4
+
+2. In order to set-up the database it is necesarry to create an exercise.db file in the same directory by executing:
+	sqlite3 exercise.db
+The table will be created when the setup_db function is executed
+
+3. In order to run this program, from the terminal execute the following command:
+	python3 exercise.py
+

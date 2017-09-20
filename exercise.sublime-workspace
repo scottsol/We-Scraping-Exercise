@@ -222,9 +222,12 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/scottsol/Google Drive/Hazel"
+	],
 	"file_history":
 	[
-		"/Users/scottsol/Google Drive/webScrapeTutorial/webscrape.py",
 		"/Users/scottsol/Google Drive/Hazel/exercise.py",
 		"/Users/scottsol/Google Drive/Hazel/exercise.sublime-project",
 		"/Users/scottsol/Google Drive/Hazel/index.html",
@@ -351,7 +354,8 @@
 		"/Users/scottsol/Google Drive/School/EE 475/EE 475/pic18_c_template_1.X/main.c",
 		"/Users/scottsol/Google Drive/School/EE 475/EE 475/Lab2Part2/spiship/spiship.X/configuration_bits.c",
 		"/Users/scottsol/Google Drive/School/EE 475/EE 475/Lab2Part2/spiship/spiship.X/interrupts.c",
-		"/Users/scottsol/Google Drive/School/EE 475/EE 475/Lab2Part2/spiship/spiship.X/main.c"
+		"/Users/scottsol/Google Drive/School/EE 475/EE 475/Lab2Part2/spiship/spiship.X/main.c",
+		"/Users/scottsol/Google Drive/School/EE 475/EE 475/Lab2Part2/spiship/spiship.X/system.c"
 	],
 	"find":
 	{
@@ -397,7 +401,7 @@
 	},
 	"input":
 	{
-		"height": 35.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -427,7 +431,7 @@
 		"height": 0.0
 	},
 	"pinned_build_system": "",
-	"project": "webscrape.sublime-project",
+	"project": "exercise.sublime-project",
 	"replace":
 	{
 		"height": 42.0
