@@ -1,0 +1,480 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"r",
+				"r"
+			],
+			[
+				"Arra",
+				"ArrayList"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"getuser",
+				"getuserName?id=1234"
+			],
+			[
+				"getu",
+				"getusernName?id=1234"
+			],
+			[
+				"getus",
+				"getUserStatus"
+			],
+			[
+				"is",
+				"isSubstring"
+			],
+			[
+				"IX",
+				"IX"
+			],
+			[
+				"nums",
+				"nums"
+			],
+			[
+				"int",
+				"intToRoman"
+			],
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"roman",
+				"romanConversion"
+			],
+			[
+				"generate",
+				"generateBeer"
+			],
+			[
+				"generateB",
+				"generateBeer"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"query",
+				"queryAvgx01"
+			],
+			[
+				"q",
+				"queryBattlefield"
+			],
+			[
+				"inset",
+				"insertPlayer"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"new",
+				"newArray"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "package control list",
+		"selected_items":
+		[
+			[
+				"package control list",
+				"Package Control: List Packages"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control remove",
+				"Package Control: Remove Channel"
+			],
+			[
+				"package control list packages",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: list p",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control ",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"package control remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package contorl install",
+				"Package Control: Install Package"
+			],
+			[
+				"package control isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"package control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: ad",
+				"Package Control: Add Repository"
+			],
+			[
+				"inst",
+				"Install Package Control"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/scottsol/Google Drive/webScrapeTutorial/webscrape.py",
+		"/Users/scottsol/Google Drive/Hazel/exercise.py",
+		"/Users/scottsol/Google Drive/Hazel/exercise.sublime-project",
+		"/Users/scottsol/Google Drive/Hazel/index.html",
+		"/Users/scottsol/Google Drive/Contact-List-App/server.js",
+		"/Users/scottsol/Google Drive/Contact-List-App/controllers/controller.js",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/Origami/Origami.sublime-settings",
+		"/Users/scottsol/Google Drive/Contact-List-App/:: server.js",
+		"/Users/scottsol/Google Drive/apitutorial/app/routes/note_routes.js",
+		"/Users/scottsol/Google Drive/apitutorial/server.js",
+		"/Users/scottsol/Google Drive/apitutorial/app/routes/index.js",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/scottsol/Google Drive/apitutorial/config/db.js",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/scottsol/Google Drive/apitutorial/package.json",
+		"/Users/scottsol/Google Drive/apitutorial/.gitignore",
+		"/Users/scottsol/Google Drive/youtubeApp/test.java",
+		"/Users/scottsol/Desktop/Compress.java",
+		"/Compress.java",
+		"/Users/scottsol/Desktop/Test.java",
+		"/Users/scottsol/Google Drive/git/FizzBuzz.java",
+		"/Users/scottsol/Desktop/Palindrome.java",
+		"/Palindrome.java",
+		"/Users/scottsol/Google Drive/git/trees and graphs/Solution.java",
+		"/Users/scottsol/Desktop/Solution.java",
+		"/Users/scottsol/Google Drive/git/message.txt",
+		"/Users/scottsol/Google Drive/git/blog/app/views/articles/show.html.erb",
+		"/Users/scottsol/Google Drive/git/blog/app/views/welcome/index.html.erb",
+		"/Users/scottsol/Google Drive/git/blog/db/migrate/20170503072944_create_articles.rb",
+		"/Users/scottsol/Desktop/poop.java",
+		"/Users/scottsol/Desktop/jadong.java",
+		"/Users/scottsol/Desktop/Jadong.java",
+		"/Users/scottsol/Desktop/import java.util.*",
+		"/Users/scottsol/Google Drive/git/java/MinIntHeap.java",
+		"/Users/scottsol/Google Drive/git/personalWebsite/index.html",
+		"/Users/scottsol/Google Drive/git/personalWebsite/css/bootstrap.css",
+		"/Users/scottsol/Google Drive/git/personalWebsite/css/stylish-portfolio.css",
+		"/Users/scottsol/Google Drive/git/personalWebsite/css/bootstrap.min.css",
+		"/Users/scottsol/Google Drive/git/js/node-mysql/package.json",
+		"/Users/scottsol/Google Drive/git/js/asynchronousBackgroundTasksInParallel/package.json",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/scottsol/Google Drive/git/js/asynchronousBackgroundTasksInParallel/client.js",
+		"/Users/scottsol/Google Drive/git/js/nodeIntroProject/requestHandlers.js",
+		"/Users/scottsol/Google Drive/git/js/nodeIntroProject/router.js",
+		"/Users/scottsol/Google Drive/git/js/nodeIntroProject/index.js",
+		"/Users/scottsol/Google Drive/git/java/hammingDistance.java",
+		"/Users/scottsol/Google Drive/git/java/fizzBuzz.java",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+		"/Users/scottsol/Google Drive/git/java/isSubstring.java",
+		"/Users/scottsol/Google Drive/git/java/palindromePermutation.java",
+		"/Users/scottsol/Google Drive/git/js/asynchronousBackgroundTasksInParallel/server.js",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/Colorcoder/colorcoder.sublime-settings",
+		"/Users/scottsol/Google Drive/git/java/isUnique.java",
+		"/Users/scottsol/Google Drive/git/java/deleteMiddleNode.java",
+		"/Users/scottsol/Library/Application Support/Sublime Text 3/Packages/User/Terminal (OSX).sublime-settings",
+		"/Users/scottsol/Google Drive/git/js/FilesizeWatcher/FilesizeWatcher.js",
+		"/Users/scottsol/Google Drive/git/js/FilesizeWatcher/src/FilesizeWatcher.js",
+		"/Users/scottsol/Google Drive/git/js/FilesizeWatcher/spec/FilesizeWatcherSpec.js",
+		"/Users/scottsol/Google Drive/git/js/FilesizeWatcher/package.json",
+		"/Users/scottsol/Google Drive/git/js/test.js",
+		"/Users/scottsol/Google Drive/git/js/eventEmitter.js",
+		"/Users/scottsol/Google Drive/git/js/FilesizeWatcher/FilesizeWatcherSpec.js",
+		"/Users/scottsol/Google Drive/git/js/test-driven-development/spec/greetSpec.js",
+		"/Users/scottsol/Google Drive/git/js/test-driven-development/src/greet.js",
+		"/Users/scottsol/Google Drive/git/js/test-driven-development/package.json",
+		"/Users/scottsol/Google Drive/git/js/nodeIntroProject/server.js",
+		"/Users/scottsol/Google Drive/codingPractice/java/recursiveMultiply.java",
+		"/Users/scottsol/Google Drive/codingPractice/js/helloworld.js",
+		"/Users/scottsol/Google Drive/codingPractice/java/viewMatrix.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/viewMatrix.jaa",
+		"/viewMatrix.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/listofDepths.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/Graphs/graphs.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/treesAndGraphs.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/minHeap.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/tripleStep",
+		"/Users/scottsol/Google Drive/codingPractice/java/Node.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/deleteMiddleNode.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/removeDups.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/kthLast.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/permutation.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/isSubstring.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/permutation2Strings.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/isUnique.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/helloWorld.",
+		"/Users/scottsol/Google Drive/codingPractice/java/fizzBuzz.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/hammingDistance.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/java",
+		"/Users/scottsol/Google Drive/codingPractice/java/intToRoman.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/romanNumerals.java",
+		"/Users/scottsol/Google Drive/codingPractice/java/helloWorld/romanNumerals.java",
+		"/Users/scottsol/Google Drive/codingPractice/cpp/stream.cpp",
+		"/Users/scottsol/Google Drive/codingPractice/cpp/template.cpp",
+		"/Users/scottsol/Google Drive/codingPractice/cpp/intro.cpp",
+		"/Users/scottsol/Google Drive/codingPractice/cpp/setw.cpp",
+		"/Users/scottsol/Google Drive/codingPractice/leetcode/longestSubStrWORepChar.java",
+		"/Users/scottsol/Google Drive/codingPractice/longestSubStrWORepChar.java",
+		"/Users/scottsol/Google Drive/codingPractice/longestSubStringWithoutRepeatingCharacters",
+		"/Users/scottsol/Desktop/helloWorld.java",
+		"/helloWorld.java",
+		"/Users/scottsol/Desktop/Dartboard/GUI/guiEngine.js",
+		"/Users/scottsol/Desktop/Dartboard/GUI/gui.html",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/pointDetect.py",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/GUI/guiEngine.js",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/GUI/gui.html",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/GUI/content.html",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/GUI/dartBackground.css",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/Server/html/index.html",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/main.py",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/Server/html/js/global.js",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/Server/main.py",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/Server/index.html",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/Server/server.py",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/Server/mysql.py",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/Server/create-tables.sql",
+		"/Users/scottsol/Desktop/sshpi.sh",
+		"/Users/scottsol/Desktop/test.py",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/PlayerManager.py",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/clean.sh",
+		"/Users/scottsol/Google Drive/Capstone/Dartboard/GameManager.py",
+		"/Users/scottsol/Desktop/Capstone/Dartboard/main.py",
+		"/Users/scottsol/Google Drive/School/EE 475/EE 475/Lab2Part2/pic18_c_template_1.X/main.c",
+		"/Users/scottsol/Google Drive/School/EE 475/EE 475/pic18_c_template_1.X/main.c",
+		"/Users/scottsol/Google Drive/School/EE 475/EE 475/Lab2Part2/spiship/spiship.X/configuration_bits.c",
+		"/Users/scottsol/Google Drive/School/EE 475/EE 475/Lab2Part2/spiship/spiship.X/interrupts.c",
+		"/Users/scottsol/Google Drive/School/EE 475/EE 475/Lab2Part2/spiship/spiship.X/main.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webscrape.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"exercise.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
